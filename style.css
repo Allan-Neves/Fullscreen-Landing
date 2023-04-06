@@ -78,3 +78,14 @@ a {
     background-color: #926239;
     color: #fff;
 }
+
+a {
+    transition: all 0.7s;
+}
+
+a:hover {
+    cursor: pointer;
+    background-color: var(--cor-principal);
+    color: white;
+    transform: scale(1.12);
+}
