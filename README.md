@@ -1,6 +1,6 @@
 # Fullscreen-Landing
 
- Este site foi criado seguindo o template fornecido no site [jolly-kalam-23776e.netlify.app](https://jolly-kalam-23776e.netlify.app). É uma landing-page simples utilizando flex-box.
+ Este site foi criado seguindo o template fornecido no site [jolly-kalam-23776e.netlify.app](https://jolly-kalam-23776e.netlify.app/fullscreenlanding/). É uma landing-page simples utilizando flex-box.
  
  ![Screenshot do Site](https://imgur.com/KhOs7UN.png)
 
